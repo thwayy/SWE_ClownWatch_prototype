@@ -1,4 +1,4 @@
-# SWE_ClownWatch_prototype
+# ClownWatch - Clown Report System prototype
 Figma prototype for Software Engineering module project.
 
 Link to design file:
